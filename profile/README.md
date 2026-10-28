@@ -10,6 +10,7 @@ Smart Local is a local digital marketing and AI search agency based in Glasshous
 - Fast, crawlable websites for local businesses
 
 ## Public projects
+- [ai-search-readiness](https://github.com/smart-local/ai-search-readiness): command-line checker for Google and AI search readiness (schema, NAP consistency, AI crawler access in robots.txt, llms.txt)
 - [local-business-schema](https://github.com/smart-local/local-business-schema): JSON-LD templates and notes for local business structured data
 
 ## Contact
